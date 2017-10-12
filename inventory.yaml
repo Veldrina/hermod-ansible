@@ -1,6 +1,6 @@
 all:
   hosts:
     lightsail:
-      ansible_host: lightsail
+      ansible_host: ursaoskius.com
       vars:
         ansible_python_interpreter: /usr/bin/python3
